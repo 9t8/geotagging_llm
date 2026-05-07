@@ -1,0 +1,6 @@
+[submodule "HRDsAttack"]
+	path = HRDsAttack
+	url = git@github.com:dataminr-ai/HRDsAttack.git
+[submodule "Pragmatic-Guide-to-Geoparsing-Evaluation"]
+	path = Pragmatic-Guide-to-Geoparsing-Evaluation
+	url = git@github.com:milangritta/Pragmatic-Guide-to-Geoparsing-Evaluation.git
